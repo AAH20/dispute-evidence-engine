@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dispute-evidence-engine"
+version = "1.0.0"
+description = "Visa CE 3.0 & Mastercard First-Party Friendly Fraud Automated Arbiter & Compelling Evidence Synthesizer"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Ahmed Hassan", email = "contact@a2zsoc.com" }
+]
+dependencies = []
+
+[project.scripts]
+dispute-engine = "dispute_evidence_engine.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["dispute_evidence_engine*"]
