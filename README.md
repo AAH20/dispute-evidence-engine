@@ -3,7 +3,6 @@
 > **Visa CE 3.0 & Mastercard First-Party Friendly Fraud Automated Arbiter**  
 > *Algorithmic Compelling Evidence Synthesizer & Direct VROL / MCN Dispatcher*  
 > Direct Integration with **[a2zsoc.com](https://a2zsoc.com)** Evidence Vault  
-> Connected to **2,000 Workflows**: `Cluster_07 (Card Network Dispute & Chargeback Automation)`
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://python.org)
@@ -76,13 +75,13 @@ flowchart TD
 
 ---
 
-## 🔄 Linkage to the 2,000 Workflows Ecosystem
+## 🔄 Card Scheme Rules & Arbitration Standards
 
-This standalone engine executes workflows in:
-* **[`fintech_payments_banking_1000_workflows/Cluster_07_Card_Network_Dispute_Chargeback_0601_0700`](file:///Users/ahmedhassan/Downloads/2000%20workflows/fintech_payments_banking_1000_workflows/Cluster_07_Card_Network_Dispute_Chargeback_0601_0700)**:
-  * Workflows `0601–0630`: Automated reason code classification (Visa 10.4 Fraud Card-Absent, 13.1 Goods Not Received, Mastercard 4837).
-  * Workflows `0631–0670`: Multi-database evidence aggregation and Visa CE 3.0 qualification checking.
-  * Workflows `0671–0700`: Win-rate tracking, early warning alert auto-refund triggers, and pre-arbitration escalation.
+This standalone engine codifies and automates network-level chargeback arbitration:
+* **Visa Compelling Evidence 3.0 (CE 3.0)**: Algorithmic qualification for pre-dispute liability shift (§10.4 Fraud - Card-Absent).
+* **Mastercard Collaboration Network (MCN)**: Integration with Ethoca alerts and automated dispute avoidance protocols (§4837 / §4853).
+* **Automated Evidence Compilation**: Cross-system aggregation of device fingerprints, IP geolocation, carrier tracking GPS, and customer order history.
+* **Pre-Arbitration Escalation**: Real-time win-probability scoring to minimize costly network arbitration filing fees.
 
 ---
 
